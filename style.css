@@ -1,0 +1,17 @@
+#movies {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.movie {
+    margin: 24px;
+    border: 1px solid plum;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.description {
+    font-style: italic;
+}
